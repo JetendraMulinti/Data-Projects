@@ -1,12 +1,12 @@
 # Black Friday Purchases
 
-# Download Datasets
+## Download Datasets
 This data project has been used as a take-home assignment in the recruitment process for the data science positions at Walmart.
 
-# Assignment
+## Assignment
 The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions. They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men?
 
-# Data Description
+## Data Description
 The company collected the transactional data of customers who purchased products from Walmart Stores during Black Friday. The dataset in walmart_data.csv has the following features:
 
 1. User_ID
@@ -21,7 +21,7 @@ The company collected the transactional data of customers who purchased products
 10. Purchase - purchase amount
 
 
-# Practicalities
+## Practicalities
 For simplicity, you may assume that 50% of Walmart`s customer base are Male and the other 50% are Female.
 
 Analyze the provided data and provide insights to the best of your abilities. Include the relevant tables/graphs/visualization to explain what you have learned about the market. Make sure that the solution reflects your entire thought process including the preparation of data - it is more important how the code is structured rather than just the final result or plot.
